@@ -64,3 +64,7 @@ Run `make help` for the full target list.
 | `Configuration/` | Build settings |
 
 LookInside continues the work of [`LookinServer`](https://github.com/QMUI/LookinServer), the original iOS view debugger runtime.
+
+## Sponsor
+
+This project is sponsored by [AirBuild](https://air.build/).
